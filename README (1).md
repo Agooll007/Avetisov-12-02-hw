@@ -43,7 +43,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Простыня со всеми запросами:
 
-SELECT VERSION();
+systemctl status mysql
+
+mysql --version
 
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'TempPass123!';
 
