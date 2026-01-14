@@ -74,4 +74,6 @@ SHOW TABLES;
 Название таблицы | Название первичного ключа
 customer         | customer_id
 
-![alt text](https://github.com/Agooll007/Avetisov_nikolay-8.3-GitLab-hw/blob/main/skrin2.png)
+![alt text](https://github.com/Agooll007/Avetisov-12-02-hw/blob/main/img/2026-01-14_04-58-19.png)
+
+https://github.com/Agooll007/Avetisov-12-02-hw/blob/main/Сформированная%20таблица.xlsx
